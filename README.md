@@ -2,7 +2,7 @@
 
 EL siguiente repositorio explica de manera muy particular el como es el comportamiento de entre objetos dentro de la programacion orientado a objeto, dejando a un lado el paradigma de programacion estructurada.
 
-En este use un directorio de carpetas que organizan de manera correacta cada una de las clases e interfaces usadas en el, ademas que hice uso del [composer.phar]('https://getcomposer.org/download/') para usar el autoload de todas las dependencias de la app.
+En este use un directorio de carpetas que organizan de manera correcta cada una de las clases e interfaces usadas en el, ademas que hice uso del [composer.phar]('https://getcomposer.org/download/') para usar el autoload de todas las dependencias de la app.
 
 📋
 
