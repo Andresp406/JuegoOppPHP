@@ -1,0 +1,26 @@
+{
+    "name": "andres/andres",
+    "description": "Juego para entender la programacion orientada objeto",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Styde\\Styde\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andres Penagos",
+            "email": "andresp406@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files":[
+            "src/helpers.php"
+        ],
+        "psr-4":{
+            "Andres\\":"src/"
+        }
+    }
+}
